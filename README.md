@@ -142,20 +142,6 @@ This project demonstrates:
 - Experience with multi-class classification problems
 - Ability to build ML models without high-level frameworks
 
-## 🤝 Contributing
-
-Feel free to fork this repository and submit pull requests for improvements. Some areas for contribution:
-- Performance optimizations
-- Additional activation functions
-- Better visualization features
-- Code documentation improvements
-
-## 📧 Contact
-
-**Abhishek Deshpande**
-- GitHub: [@Abhishek-1804](https://github.com/Abhishek-1804)
-- Website: [abhishekdp.com](https://abhishekdp.com)
-
 ---
 
 *This project showcases the implementation of fundamental deep learning concepts from scratch, providing a solid foundation for understanding how neural networks work under the hood.*
